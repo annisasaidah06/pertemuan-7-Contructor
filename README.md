@@ -8,6 +8,7 @@
 | **Mata Kuliah** | Pemrograman Orientasi objek |
 
 
+#menampilkan program
 
     # Constructor dengan parameter
     def __init__(self, nama, jurusan, angkatan):
