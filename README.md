@@ -7,7 +7,7 @@
 | **Kelas** | TI.23.A6 |
 | **Mata Kuliah** | Pemrograman Orientasi objek |
 
-
+#program
 class Mahasiswa:
     # Constructor dengan parameter
     def __init__(self, nama, jurusan, angkatan):
