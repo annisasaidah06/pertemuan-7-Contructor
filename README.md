@@ -42,8 +42,6 @@ Penjelasan:
 4. Memanggil Metode: mahasiswa1.info() memanggil metode info untuk
 5.  informasi tentang mahasiswa tersebut.
 
-   ##output
    
-(!){IMG_20241107_064125.jpg}
 
    
