@@ -39,6 +39,10 @@ Penjelasan:
 3. Membuat Objek: mahasiswa1 = Mahasiswa("Budi", "Teknik Informatika", 2022) membuat objek baru dari kelas Mahasiswa dengan nilai awal untuk atribut nama, jurusan, dan angkatan.
 
 
-4. Memanggil Metode: mahasiswa1.info() memanggil metode info untuk mencetak informasi tentang mahasiswa tersebut.
+4. Memanggil Metode: mahasiswa1.info() memanggil metode info untuk
+5.  informasi tentang mahasiswa tersebut.
+
+   ##output
+IMG_20241107_064125.jpg
 
    
