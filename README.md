@@ -44,6 +44,6 @@ Penjelasan:
 
    ##output
    
-IMG_20241107_064125.jpg
+(!){IMG_20241107_064125.jpg}
 
    
