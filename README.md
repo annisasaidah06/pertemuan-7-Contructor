@@ -9,8 +9,6 @@
 
 
 
-
-class Mahasiswa:
     # Constructor dengan parameter
     def __init__(self, nama, jurusan, angkatan):
         self.nama = nama # Atribut nama
